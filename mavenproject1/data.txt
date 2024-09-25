@@ -1,0 +1,7 @@
+001;LE ANH KHOI;true;4.0
+003;LE ANH BIEM;true;6.0
+002;LE ANH NUOI;false;7.0
+005;LE ANH NUI;true;7.5
+006;LE ANH SONG;true;8.0
+004;LE ANH TA;true;9.8
+007;Nguyễn Văn Nam;true;9.0
